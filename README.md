@@ -4,6 +4,12 @@
  - 单纯的指示器
  - 圆点轮播指示器
 
+修复高版本 Gradle 异常情况：
+
+```
+implementation 'com.hlq-struggle:indicator:1.0.0'
+```
+
 ## 1.传统的文字+指示器组合
 <div>
     <img src="https://github.com/pengMaster/picApplyGit/blob/master/MultiIndicator/ic_tabLayout.gif" width="200" height="356"   alt=""/>
